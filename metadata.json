@@ -1,0 +1,6 @@
+{
+  "name": "WebLLM Local AI Chat",
+  "description": "Execute modelos de linguagem locais no navegador utilizando WebGPU e a biblioteca WebLLM com streaming e controle total de parâmetros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
